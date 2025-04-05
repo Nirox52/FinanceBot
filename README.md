@@ -4,5 +4,5 @@
 
 ### Bot
 - uv sync
-- uv run uvicorn main.py
+- uv run main.py
 
